@@ -1,0 +1,4 @@
+c:\users\polri\documents\visual studio 2010\Projects\Konversi Desimal ke Biner\Konversi Desimal ke Biner\bin\Debug\Konversi Desimal ke Biner.exe
+c:\users\polri\documents\visual studio 2010\Projects\Konversi Desimal ke Biner\Konversi Desimal ke Biner\bin\Debug\Konversi Desimal ke Biner.pdb
+c:\users\polri\documents\visual studio 2010\Projects\Konversi Desimal ke Biner\Konversi Desimal ke Biner\obj\x86\Debug\Konversi Desimal ke Biner.exe
+c:\users\polri\documents\visual studio 2010\Projects\Konversi Desimal ke Biner\Konversi Desimal ke Biner\obj\x86\Debug\Konversi Desimal ke Biner.pdb

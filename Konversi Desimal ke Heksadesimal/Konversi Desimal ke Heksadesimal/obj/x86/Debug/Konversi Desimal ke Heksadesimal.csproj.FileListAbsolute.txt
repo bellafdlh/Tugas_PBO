@@ -1,0 +1,4 @@
+c:\users\polri\documents\visual studio 2010\Projects\Konversi Desimal ke Heksadesimal\Konversi Desimal ke Heksadesimal\bin\Debug\Konversi Desimal ke Heksadesimal.exe
+c:\users\polri\documents\visual studio 2010\Projects\Konversi Desimal ke Heksadesimal\Konversi Desimal ke Heksadesimal\bin\Debug\Konversi Desimal ke Heksadesimal.pdb
+c:\users\polri\documents\visual studio 2010\Projects\Konversi Desimal ke Heksadesimal\Konversi Desimal ke Heksadesimal\obj\x86\Debug\Konversi Desimal ke Heksadesimal.exe
+c:\users\polri\documents\visual studio 2010\Projects\Konversi Desimal ke Heksadesimal\Konversi Desimal ke Heksadesimal\obj\x86\Debug\Konversi Desimal ke Heksadesimal.pdb

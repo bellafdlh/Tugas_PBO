@@ -1,0 +1,5 @@
+C:\Users\Polri\Documents\Visual Studio 2010\Projects\Deretan Bilangan Fibbonaci\Deretan Bilangan Fibbonaci\obj\x86\Debug\Deretan Bilangan Fibbonaci.csprojResolveAssemblyReference.cache
+C:\Users\Polri\Documents\Visual Studio 2010\Projects\Deretan Bilangan Fibbonaci\Deretan Bilangan Fibbonaci\bin\Debug\Deretan Bilangan Fibbonaci.exe
+C:\Users\Polri\Documents\Visual Studio 2010\Projects\Deretan Bilangan Fibbonaci\Deretan Bilangan Fibbonaci\bin\Debug\Deretan Bilangan Fibbonaci.pdb
+C:\Users\Polri\Documents\Visual Studio 2010\Projects\Deretan Bilangan Fibbonaci\Deretan Bilangan Fibbonaci\obj\x86\Debug\Deretan Bilangan Fibbonaci.exe
+C:\Users\Polri\Documents\Visual Studio 2010\Projects\Deretan Bilangan Fibbonaci\Deretan Bilangan Fibbonaci\obj\x86\Debug\Deretan Bilangan Fibbonaci.pdb
