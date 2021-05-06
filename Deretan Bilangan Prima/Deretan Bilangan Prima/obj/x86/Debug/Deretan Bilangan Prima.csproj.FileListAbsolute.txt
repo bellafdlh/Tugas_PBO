@@ -1,0 +1,5 @@
+c:\users\polri\documents\visual studio 2010\Projects\Deretan Bilangan Prima\Deretan Bilangan Prima\bin\Debug\Deretan Bilangan Prima.exe
+c:\users\polri\documents\visual studio 2010\Projects\Deretan Bilangan Prima\Deretan Bilangan Prima\bin\Debug\Deretan Bilangan Prima.pdb
+c:\users\polri\documents\visual studio 2010\Projects\Deretan Bilangan Prima\Deretan Bilangan Prima\obj\x86\Debug\Deretan Bilangan Prima.exe
+c:\users\polri\documents\visual studio 2010\Projects\Deretan Bilangan Prima\Deretan Bilangan Prima\obj\x86\Debug\Deretan Bilangan Prima.pdb
+C:\Users\Polri\Documents\Visual Studio 2010\Projects\Deretan Bilangan Prima\Deretan Bilangan Prima\obj\x86\Debug\Deretan Bilangan Prima.csprojResolveAssemblyReference.cache
